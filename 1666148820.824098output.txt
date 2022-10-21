@@ -1,0 +1,26 @@
+邮件名称: D:\study\paper\email\tets\yj7.eml
+开始处理
+From: ty_119@outlook.com
+REPLY_TO: None
+From: ty_119@outlook.com
+Sender: nlyz_a@163.com
+显示发件人与实际发件人不一致，可能存在伪造。
+Received[0]: from m13129.mail.163.com (unknown [220.181.13.129]) by mx52 (Coremail) with SMTP id kuRpCgDXVFpqcdpi2fpbAw--.45837S2; Fri, 22 Jul 2022 17:44:10 +0800 (CST)
+Received[1]: from ty_119$outlook.com ( [223.167.224.166] ) by ajax-webmail-wmsvr129 (Coremail) ; Fri, 22 Jul 2022 17:44:10 +0800 (CST)
+Date: Fri, 22 Jul 2022 17:44:10 +0800 (CST)
+received[0]时间正常。
+received[1]时间正常。
+Received[0]: from m13129.mail.163.com (unknown [220.181.13.129]) by mx52 (Coremail) with SMTP id kuRpCgDXVFpqcdpi2fpbAw--.45837S2; Fri, 22 Jul 2022 17:44:10 +0800 (CST)
+Received[1]: from ty_119$outlook.com ( [223.167.224.166] ) by ajax-webmail-wmsvr129 (Coremail) ; Fri, 22 Jul 2022 17:44:10 +0800 (CST)
+域名： m13129.mail.163.com unknown
+ip： 220.181.13.129
+ip查询结果为: 
+DNS request timed out.     timeout was 2 seconds. 服务器:  UnKnown Address:  8.8.8.8  名称:    m13129.mail.163.com Address:  220.181.13.129  
+received[0]ip与域名一致。
+域名： ty_119$outlook.com 
+ip： 223.167.224.166
+ip查询结果为: 
+DNS request timed out.     timeout was 2 seconds. 服务器:  UnKnown Address:  8.8.8.8  
+received[1]ip与域名一致。
+
+邮件总数: 1

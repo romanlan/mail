@@ -1,0 +1,153 @@
+邮件名称: D:\study\paper\email\tets\test.eml
+开始处理
+From: 1301@163.com
+REPLY_TO: None
+From: 1301@163.com
+Sender: <13016413993@163.com>
+显示发件人与实际发件人不一致，可能存在伪造。
+Received: from LM (unknown [117.152.218.214]) by smtp11 (Coremail) with SMTP id D8CowAC3rF50WRFjNL87Cw--.7889S2; Fri, 02 Sep 2022 09:16:38 +0800 (CST)
+Date: Fri, 2 Sep 2022 09:18:39 +0800
+received时间小于date时间，可能存在伪造。
+Received: from LM (unknown [117.152.218.214]) by smtp11 (Coremail) with SMTP id D8CowAC3rF50WRFjNL87Cw--.7889S2; Fri, 02 Sep 2022 09:16:38 +0800 (CST)
+域名： LM unknown
+ip： 117.152.218.214
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  
+received ip与域名不符。
+
+邮件名称: D:\study\paper\email\tets\test_.eml
+开始处理
+From: 13016413993@163.com
+REPLY_TO: None
+From: 13016413993@163.com
+Sender: None
+Received[0]: from m12-15.163.com (m12-15.163.com [220.181.12.15]) by newxmmxszc7-2.qq.com (NewMX) with SMTP id 427396E8 for <408154112@qq.com>; Fri, 02 Sep 2022 09:16:39 +0800
+Received[1]: from LM (unknown [117.152.218.214]) by smtp11 (Coremail) with SMTP id D8CowAC3rF50WRFjNL87Cw--.7889S2; Fri, 02 Sep 2022 09:16:38 +0800 (CST)
+Date: Fri, 2 Sep 2022 09:16:36 +0800
+received[0]时间正常。
+Received[0]: from m12-15.163.com (m12-15.163.com [220.181.12.15]) by newxmmxszc7-2.qq.com (NewMX) with SMTP id 427396E8 for <408154112@qq.com>; Fri, 02 Sep 2022 09:16:39 +0800
+Received[1]: from LM (unknown [117.152.218.214]) by smtp11 (Coremail) with SMTP id D8CowAC3rF50WRFjNL87Cw--.7889S2; Fri, 02 Sep 2022 09:16:38 +0800 (CST)
+域名： m12-15.163.com m12-15.163.com
+ip： 220.181.12.15
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  名称:    m12-15.163.com Address:  220.181.12.15  received[0]ip与域名一致。
+域名： LM unknown
+ip： 117.152.218.214
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  received[1]ip与域名不符。
+
+邮件名称: D:\study\paper\email\tets\test_22.eml
+开始处理
+From: 13016413993@163.com
+REPLY_TO: None
+From: 13016413993@163.com
+Sender: None
+Received[0]: from m12-15.163.com (m12-15.163.com [220.181.12.15]) by newxmmxszc7-2.qq.com (NewMX) with SMTP id 427396E8 for <408154112@qq.com>; Fri, 02 Sep 2022 09:16:39 +0800
+Received[1]: from LM (unknown [117.152.218.214]) by smtp11 (Coremail) with SMTP id D8CowAC3rF50WRFjNL87Cw--.7889S2; Fri, 02 Sep 2022 09:16:38 +0800 (CST)
+Date: Fri, 2 Sep 2022 11:16:36 +0800
+received[0]时间小于date时间，可能存在伪造。
+Received[0]: from m12-15.163.com (m12-15.163.com [220.181.12.15]) by newxmmxszc7-2.qq.com (NewMX) with SMTP id 427396E8 for <408154112@qq.com>; Fri, 02 Sep 2022 09:16:39 +0800
+Received[1]: from LM (unknown [117.152.218.214]) by smtp11 (Coremail) with SMTP id D8CowAC3rF50WRFjNL87Cw--.7889S2; Fri, 02 Sep 2022 09:16:38 +0800 (CST)
+域名： m12-15.163.com m12-15.163.com
+ip： 220.181.12.15
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  名称:    m12-15.163.com Address:  220.181.12.15  received[0]ip与域名一致。
+域名： LM unknown
+ip： 117.152.218.214
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  received[1]ip与域名不符。
+
+邮件名称: D:\study\paper\email\tets\yj5.eml
+开始处理
+From: nlyz_a@163.com
+REPLY_TO: None
+From: nlyz_a@163.com
+Sender: None
+Received[0]: from mail-m972.mail.163.com (mail-m972.mail.163.com [123.126.97.2]) by newxmmxszc7-3.qq.com (NewMX) with SMTP id 95E91A28 for <125285052@qq.com>; Fri, 22 Jul 2022 16:37:30 +0800
+Received[1]: from DESKTOP-8RC2PMJ (unknown [223.167.224.166]) by smtp2 (Coremail) with SMTP id GtxpCgDHzqbJYdpikqFcQg--.4161S2; Fri, 22 Jul 2022 16:37:30 +0800 (CST)
+Date: Fri, 22 Jul 2022 16:37:31 +0800
+received[0]时间小于date时间，可能存在伪造。
+Received[0]: from mail-m972.mail.163.com (mail-m972.mail.163.com [123.126.97.2]) by newxmmxszc7-3.qq.com (NewMX) with SMTP id 95E91A28 for <125285052@qq.com>; Fri, 22 Jul 2022 16:37:30 +0800
+Received[1]: from DESKTOP-8RC2PMJ (unknown [223.167.224.166]) by smtp2 (Coremail) with SMTP id GtxpCgDHzqbJYdpikqFcQg--.4161S2; Fri, 22 Jul 2022 16:37:30 +0800 (CST)
+域名： mail-m972.mail.163.com mail-m972.mail.163.com
+ip： 123.126.97.2
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  名称:    mail-m972.mail.163.com Address:  123.126.97.2  received[0]ip与域名一致。
+域名： DESKTOP-8RC2PMJ unknown
+ip： 223.167.224.166
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  received[1]ip与域名不符。
+
+邮件名称: D:\study\paper\email\tets\yj6.eml
+开始处理
+From: ty_119@outlook.com
+REPLY_TO: None
+From: ty_119@outlook.com
+Sender: nlyz_a@163.com
+显示发件人与实际发件人不一致，可能存在伪造。
+Received[0]: by 2002:a05:7300:7655:b0:6b:45a1:39e5 with SMTP id d21csp181182dyf; Fri, 22 Jul 2022 02:42:13 -0700 (PDT)
+Received[1]: from m13129.mail.163.com (m13129.mail.163.com. [220.181.13.129]) by mx.google.com with SMTP id z5-20020a170903018500b0016c2d9149desi6136560plg.431.2022.07.22.02.42.12 for <lforleonk@gmail.com>; Fri, 22 Jul 2022 02:42:13 -0700 (PDT)
+Received[2]: from ty_119$outlook.com ( [223.167.224.166] ) by ajax-webmail-wmsvr129 (Coremail) ; Fri, 22 Jul 2022 17:41:30 +0800 (CST)
+Date: Fri, 22 Jul 2022 17:41:30 +0800 (CST)
+received[0]时间小于date时间，可能存在伪造。
+Received[0]: by 2002:a05:7300:7655:b0:6b:45a1:39e5 with SMTP id d21csp181182dyf; Fri, 22 Jul 2022 02:42:13 -0700 (PDT)
+Received[1]: from m13129.mail.163.com (m13129.mail.163.com. [220.181.13.129]) by mx.google.com with SMTP id z5-20020a170903018500b0016c2d9149desi6136560plg.431.2022.07.22.02.42.12 for <lforleonk@gmail.com>; Fri, 22 Jul 2022 02:42:13 -0700 (PDT)
+Received[2]: from ty_119$outlook.com ( [223.167.224.166] ) by ajax-webmail-wmsvr129 (Coremail) ; Fri, 22 Jul 2022 17:41:30 +0800 (CST)
+域名： 2002:a05:7300:7655:b0:6b:45a1:39e5 with
+ip： SMTP
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  received[0]ip与域名不符。
+域名： m13129.mail.163.com m13129.mail.163.com.
+ip： 220.181.13.129
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  名称:    m13129.mail.163.com Address:  220.181.13.129  received[1]ip与域名一致。
+域名： ty_119$outlook.com 
+ip： 223.167.224.166
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  received[2]ip与域名一致。
+
+邮件名称: D:\study\paper\email\tets\yj7.eml
+开始处理
+From: ty_119@outlook.com
+REPLY_TO: None
+From: ty_119@outlook.com
+Sender: nlyz_a@163.com
+显示发件人与实际发件人不一致，可能存在伪造。
+Received[0]: from m13129.mail.163.com (unknown [220.181.13.129]) by mx52 (Coremail) with SMTP id kuRpCgDXVFpqcdpi2fpbAw--.45837S2; Fri, 22 Jul 2022 17:44:10 +0800 (CST)
+Received[1]: from ty_119$outlook.com ( [223.167.224.166] ) by ajax-webmail-wmsvr129 (Coremail) ; Fri, 22 Jul 2022 17:44:10 +0800 (CST)
+Date: Fri, 22 Jul 2022 17:44:10 +0800 (CST)
+received[0]时间正常。
+Received[0]: from m13129.mail.163.com (unknown [220.181.13.129]) by mx52 (Coremail) with SMTP id kuRpCgDXVFpqcdpi2fpbAw--.45837S2; Fri, 22 Jul 2022 17:44:10 +0800 (CST)
+Received[1]: from ty_119$outlook.com ( [223.167.224.166] ) by ajax-webmail-wmsvr129 (Coremail) ; Fri, 22 Jul 2022 17:44:10 +0800 (CST)
+域名： m13129.mail.163.com unknown
+ip： 220.181.13.129
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  名称:    m13129.mail.163.com Address:  220.181.13.129  received[0]ip与域名一致。
+域名： ty_119$outlook.com 
+ip： 223.167.224.166
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  received[1]ip与域名一致。
+
+邮件名称: D:\study\paper\email\tets\yj8.eml
+开始处理
+From: sm_official@market.com
+REPLY_TO: None
+From: sm_official@market.com
+Sender: ['nlyz_a@163.com', 'nlyz_a@163.com']
+sender 数量不是一个,可能存在伪造。
+Received[0]: from mail-m972.mail.163.com (mail-m972.mail.163.com [123.126.97.2]) by newxmmxszc3-4.qq.com (NewMX) with SMTP id 63524C51 for <526862302@qq.com>; Fri, 22 Jul 2022 16:24:53 +0800
+Received[1]: from espoofer-MacBook-Pro.local (unknown [223.167.224.166]) by smtp2 (Coremail) with SMTP id GtxpCgBH__nJXtpiDcpaQg--.58618S3; Fri, 22 Jul 2022 16:24:51 +0800 (CST)
+Date: ['Fri, 22 Jul 2022 08:24:42 +0000', 'Fri, 22 Jul 2022 16:24:52 +0800 (CST)']
+Date 数量不是一个,可能存在伪造。
+Received[0]: from mail-m972.mail.163.com (mail-m972.mail.163.com [123.126.97.2]) by newxmmxszc3-4.qq.com (NewMX) with SMTP id 63524C51 for <526862302@qq.com>; Fri, 22 Jul 2022 16:24:53 +0800
+Received[1]: from espoofer-MacBook-Pro.local (unknown [223.167.224.166]) by smtp2 (Coremail) with SMTP id GtxpCgBH__nJXtpiDcpaQg--.58618S3; Fri, 22 Jul 2022 16:24:51 +0800 (CST)
+域名： mail-m972.mail.163.com mail-m972.mail.163.com
+ip： 123.126.97.2
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  名称:    mail-m972.mail.163.com Address:  123.126.97.2  received[0]ip与域名一致。
+域名： espoofer-MacBook-Pro.local unknown
+ip： 223.167.224.166
+ip查询结果为: 
+服务器:  dns.google Address:  8.8.8.8  received[1]ip与域名不符。
+
+邮件总数: 7
